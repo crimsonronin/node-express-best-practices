@@ -5,7 +5,8 @@ var livereload = require('gulp-livereload');
 var sass = require('gulp-sass');
 
 gulp.task('sass', function() {
-    return sass('./public/css/')
+    return gulp.src('./public/css/*.scss')
+        .pipe(sass().on('error', sass.logError))
         .pipe(gulp.dest('./public/css'))
         .pipe(livereload());
 });
