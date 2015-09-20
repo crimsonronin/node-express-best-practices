@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "55fe165e44e2900b2b9f9229",
+        "createdOn": "2015-09-20T02:13:50.000Z",
+        "username": "elonmusk",
+        "firstName": "Elon",
+        "lastName": "Musk"
+    },
+    {
+        "_id": "55fe165e44e2900b2b9f922a",
+        "createdOn": "2015-09-20T02:13:50.000Z",
+        "username": "sergeybrin",
+        "firstName": "Sergey",
+        "lastName": "Brin"
+    },
+    {
+        "_id": "55fe165e44e2900b2b9f922b",
+        "createdOn": "2015-09-20T02:13:50.000Z",
+        "username": "markzuckerberg",
+        "firstName": "Mark",
+        "lastName": "Zuckerberg"
+    }
+]
